@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2772c73cc2af224",
+        "id": "7ecee4b05999a2fd",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d6e13ba2d263da",
+            "id": "bdb5034dbcd02fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,14 +148,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a7d6e13ba2d263da",
+  "active": "bdb5034dbcd02fcf",
   "lastOpenFiles": [
+    "English/English1.md",
+    "English",
     "MarkDown/MarkDown.md",
+    "MarkDown/MarkDown.png",
     "Git/Git.md",
     "MarkDown",
     "Git",
     "Git/Git常用指令流程图.png",
-    "MarkDown/MarkDown.png",
     "baidu.com.md"
   ]
 }

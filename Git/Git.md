@@ -55,6 +55,8 @@ alias ll ='ls -al'
     - graph 以图的形式显示
 ## 版本回退
 ## 添加文件至忽略列表
+1. 创建 .gitignore 文件：`touch .gitignore`
+2. 在 .gitignore 文件中添加要忽略的文件名
 # 分支
 ## 查看本地分支
 ## 创建本地分支
@@ -73,7 +75,7 @@ SSH 远程仓库地址
 2. 获取公钥：``cat ~/.ssh/id_rsa.pub
 3. 将公钥与远程仓库账户关联
 4. 验证是否配置成功：`ssh -T git@github.com`
-	- 若出现问题：
+	- ==若出现问题：==
 		`The authenticity of host 'github.com (<no hostip for proxy command>)' can't be established.`
 		- 解决办法：
 		 `ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
@@ -92,6 +94,7 @@ SSH 远程仓库地址
 ## 从远程仓库中抓取和拉取
 ## 解决合并冲突
 
+---
 ---
 # 快速使用
 要将本地文件提交到远程仓库（如 GitHub），你可以按照以下步骤操作：
