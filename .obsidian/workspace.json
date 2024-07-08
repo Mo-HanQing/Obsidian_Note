@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7ecee4b05999a2fd",
+        "id": "11f6f884b8ee1a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb5034dbcd02fcf",
+            "id": "3ef80d761a2bf174",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git/Git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -134,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,13 +141,25 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bdb5034dbcd02fcf",
+  "active": "3ef80d761a2bf174",
   "lastOpenFiles": [
+    "Algorithm/二分查找法.md",
     "English/English1.md",
-    "English",
-    "MarkDown/MarkDown.md",
-    "MarkDown/MarkDown.png",
+    "English/English2.md",
+    "Vim/Vim配置.md",
     "Git/Git.md",
+    "MarkDown/MarkDown.md",
+    "Algorithm",
+    "Linux",
+    "Windows/CMD.md",
+    "Vim",
+    "新建 文本文档.txt",
+    "新建文件夹",
+    "Windows/Windows 快捷键.md",
+    "Windows/CMD",
+    "Windows",
+    "English",
+    "MarkDown/MarkDown.png",
     "MarkDown",
     "Git",
     "Git/Git常用指令流程图.png",

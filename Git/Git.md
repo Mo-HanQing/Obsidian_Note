@@ -9,12 +9,12 @@ tags:
 # 用户配置
 1. 打开Git Bash
 2. 设置用户信息
-```
+```bash
 git config --global user.name "your name"
 git config --global user.email "your email"
 ```
 3. 查看配置信息
-```
+```bash
 git config --global user.name
 git config --global user.email
 ```
@@ -22,7 +22,7 @@ git config --global user.email
 # 指令别名
 1. 打开Git Bash，创建 .bashrc 文件 `touch ~/.bashrc`
 2. 在 .bashrc 文件中输入如下内容：
-```
+```bash
 #输出git提交日志
 alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'
 #输出当前目录中所有文件及基本信息
