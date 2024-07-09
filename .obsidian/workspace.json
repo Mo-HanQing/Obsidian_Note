@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "11f6f884b8ee1a2e",
+        "id": "eaeb7bd62e6bed8c",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef80d761a2bf174",
+            "id": "378c068a645ac879",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "English/English3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English/English3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/English3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "English/English3.md"
+              }
             }
           }
         ],
@@ -141,13 +149,18 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3ef80d761a2bf174",
+  "active": "378c068a645ac879",
   "lastOpenFiles": [
-    "Algorithm/二分查找法.md",
-    "English/English1.md",
     "English/English2.md",
-    "Vim/Vim配置.md",
+    "English/English3.md",
+    "English/English1.md",
+    "Linux/Linux.md",
+    "Linux/Linux目录结构.png",
+    "未命名",
     "Git/Git.md",
+    "Git/Git常用指令流程图.png",
+    "Algorithm/二分查找法.md",
+    "Vim/Vim配置.md",
     "MarkDown/MarkDown.md",
     "Algorithm",
     "Linux",
@@ -161,8 +174,6 @@
     "English",
     "MarkDown/MarkDown.png",
     "MarkDown",
-    "Git",
-    "Git/Git常用指令流程图.png",
     "baidu.com.md"
   ]
 }
