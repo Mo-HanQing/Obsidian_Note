@@ -28,3 +28,12 @@ tags:
 4. a majority of sth.
 	- Still, a majority of politicians continue to support the treaty.
 # Sentence
+1. The trouble is that part of the recent acceleration is due to the usual rebound that occurs at this point in a business cycle, and so is not conclusive evidence of a revival in the underlying trend.
+	- due to sth.
+	- due to do sth.
+	- rebound
+	- cycle
+	- it occurs to me that...
+	- conclusive
+	- revival
+	- underlying

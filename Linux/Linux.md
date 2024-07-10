@@ -159,3 +159,33 @@ tags:
         - search 搜索
         - -y，自动确认
 > yum 和 apt 均需要root权限
+
+- 可能问题
+	1. `Failed to fetch http://security.ubuntu.com/ubuntu/pool/main/g/glibc/libc-dev-bin_2.35-0ubuntu3.4_amd64.deb 404 Not Found [IP: 44.0.0.8 80]`这个错误通常表示在指定的 Ubuntu 软件源中找不到所需的 `libc-dev-bin` 软件包。
+		- 解决办法：
+			1. 更新软件包列表`sudo apt update`
+## ip地址
+格式：a.b.c.d
+- abcd为0~255的数字
+特殊IP：
+- 127.0.0.1，表示本机
+- 0.0.0.0
+    - 可以表示本机
+    - 也可以表示任意IP（看使用场景）
+查看ip：`ifconfig`
+## 主机名
+功能：Linux系统的名称
+查看：`hostname`
+设置：`hostnamectl set-hostname 主机名`
+## su (Switch User)
+- `su` 是"Switch User"的缩写，允许当前用户切换到另一个用户账号。
+- 通常用法为 `su username`，其中 `username` 是你想切换到的目标用户的用户名。
+- 如果不指定用户名，`su` 默认会尝试切换到超级用户（root）账号，此时需要输入超级用户的密码。
+- `su` 切换后会创建一个新的shell会话，该会话会继承目标用户的环境变量和权限，直到用户使用 `exit` 命令退出。
+- 示例：`su bob`
+## sudo (Superuser Do)
+- `sudo` 是"Superuser Do"的缩写，允许授权用户以其他用户的身份执行命令，通常是超级用户（root）的权限。
+- 用户需要在配置文件（通常是 `/etc/sudoers`）中明确授权可以使用 `sudo` 执行命令的用户列表以及可以执行的命令列表。
+- 通过 `sudo` 执行命令时，需要输入当前用户的密码，而不是目标用户（通常是超级用户）的密码，这增加了安全性。
+- `sudo` 允许更细粒度的权限管理，并且可以在命令执行时指定以哪个用户的身份来执行。
+- 示例：`sudo apt-get update`

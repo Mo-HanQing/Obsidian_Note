@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eaeb7bd62e6bed8c",
+        "id": "773058e8f7e71d47",
         "type": "tabs",
         "children": [
           {
-            "id": "378c068a645ac879",
+            "id": "e767c6db0a96c69c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/English3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English3.md",
+                "file": "Make/MakeFile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/English3.md",
+                "file": "Make/MakeFile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/English3.md"
+                "file": "Make/MakeFile.md"
               }
             }
           }
@@ -149,31 +145,45 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "378c068a645ac879",
+  "active": "ff0cfdc1389650af",
   "lastOpenFiles": [
-    "English/English2.md",
-    "English/English3.md",
-    "English/English1.md",
+    "Make/跟我一起写Makefile/书写规则 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/隐含规则 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/书写命令 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/使用条件判断 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/使用函数 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/使用变量 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/使用make更新函数库文件 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/后序 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/概述 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/makefile介绍 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile/make 的运行 — 跟我一起写Makefile 1.0 文档.md",
+    "Make/跟我一起写Makefile",
     "Linux/Linux.md",
+    "Make/MakeFile.md",
+    "Linux/Linux课程笔记.md",
+    "Make",
+    "Shell/Shell.md",
     "Linux/Linux目录结构.png",
-    "未命名",
+    "Windows/Windows 快捷键.md",
+    "Shell",
+    "Windows/CMD.md",
+    "Vim/Vim配置.md",
+    "English/English3.md",
+    "JavaWeb",
+    "English/English2.md",
+    "English/English1.md",
     "Git/Git.md",
     "Git/Git常用指令流程图.png",
     "Algorithm/二分查找法.md",
-    "Vim/Vim配置.md",
     "MarkDown/MarkDown.md",
     "Algorithm",
     "Linux",
-    "Windows/CMD.md",
     "Vim",
     "新建 文本文档.txt",
     "新建文件夹",
-    "Windows/Windows 快捷键.md",
     "Windows/CMD",
-    "Windows",
-    "English",
     "MarkDown/MarkDown.png",
-    "MarkDown",
     "baidu.com.md"
   ]
 }
