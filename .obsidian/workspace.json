@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5f74b49e4801753a",
+        "id": "61c96b3434c04c78",
         "type": "tabs",
         "children": [
           {
-            "id": "26fe36e15aa39c06",
+            "id": "1a07b71661f3a72a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/English5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/English5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/English5.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,20 +141,33 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "26fe36e15aa39c06",
+  "active": "1a07b71661f3a72a",
   "lastOpenFiles": [
+    "LaTex/imgs/Snipaste_2024-07-15_11-05-09.png",
+    "Algorithm/2. 移除元素.md",
+    "LaTex/imgs",
+    "Algorithm/imgs",
     "机器学习/机器学习.md",
+    "机器学习/imgs",
+    "LaTex/imgs/Snipaste_2024-07-16_14-24-47.png",
+    "LaTex/imgs/Snipaste_2024-07-16_14-21-57.png",
+    "LaTex/imgs/Snipaste_2024-07-15_11-05-09 1.png",
+    "Snipaste_2024-07-15_11-11-51.png",
+    "LaTex/LaTex数学语法.md",
+    "Pasted image 20240715212226.png",
+    "Algorithm/imgs/27.移除元素-双指针法.gif",
+    "Algorithm/imgs/27.移除元素-暴力解法.gif",
+    "Algorithm/1. 二分查找法.md",
+    "English/English6.md",
     "English/English5.md",
-    "机器学习/Snipaste_2024-07-11_23-00-37.png",
-    "机器学习/Snipaste_2024-07-12_09-56-45.png",
-    "机器学习/Snipaste_2024-07-12_15-23-01.png",
-    "机器学习/Snipaste_2024-07-12_15-17-47.png",
-    "机器学习/Snipaste_2024-07-12_15-14-48.png",
-    "机器学习/Snipaste_2024-07-12_10-25-42.png",
-    "机器学习/Snipaste_2024-07-12_10-09-01.png",
-    "机器学习/Snipaste_2024-07-12_10-04-14.png",
-    "机器学习/Snipaste_2024-07-12_09-49-01.png",
-    "机器学习/Snipaste_2024-07-11_23-22-39.png",
+    "LaTex/LaTex基本语法.md",
+    "Math/Math1.md",
+    "English/Computer English1.md",
+    "Math",
+    "MarkDown/MarkDown.md",
+    "LaTex",
+    "机器学习/imgs/Snipaste_2024-07-13_14-19-38.png",
+    "机器学习/imgs/Snipaste_2024-07-11_23-00-37.png",
     "Dir/Dir.md",
     "机器学习",
     "Git/Git.md",
@@ -180,22 +185,8 @@
     "Python/Python.md",
     "Dir",
     "Python",
-    "Make/例",
-    "C语言",
     "Make/跟我一起写Makefile/书写规则 — 跟我一起写Makefile 1.0 文档.md",
     "Make/跟我一起写Makefile/隐含规则 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/书写命令 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/使用条件判断 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/使用函数 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/使用变量 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/使用make更新函数库文件 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/后序 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/概述 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/makefile介绍 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile/make 的运行 — 跟我一起写Makefile 1.0 文档.md",
-    "Make/跟我一起写Makefile",
-    "Linux/Linux.md",
-    "Make",
-    "Shell"
+    "Make/跟我一起写Makefile/书写命令 — 跟我一起写Makefile 1.0 文档.md"
   ]
 }
